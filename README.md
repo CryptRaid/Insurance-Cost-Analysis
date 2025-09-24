@@ -4,7 +4,7 @@
 
 ## Dataset
 - Description: Contains records of medical insurance clients, including features such as age, BMI, smoking status, and charges.
-- Size: 1338 rows & 7 columns
+- Size: 1338 rows x 7 columns
 
 ## Features
 - age
