@@ -39,8 +39,9 @@
 
 ## How to Run
 1. Clone this repository:
-2. Open Medical_Insurance_Analysis.ipynb in Jupyter Notebook.
-3. Ensure the required python libraries are installed:
+    - git clone https://github.com/CryptRaid/Insurance-Cost-Analysis.git
+3. Open Medical_Insurance_Analysis.ipynb in Jupyter Notebook.
+4. Ensure the required python libraries are installed:
     - Pandas, Matplotlib, Scikit-learn, Numpy, Seaborn
 
 ## Skills Demonstrated
