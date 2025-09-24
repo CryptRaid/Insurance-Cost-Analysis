@@ -8,12 +8,20 @@
 #### Size: 1338 rows & 7 columns
 
 ## Features
-
+- age
+- sex
+- bmi
+- children
+- smoker
+- region
+- charges
 
 ## Steps
-
+ 
 
 ## Tools & Technologies
-
+- Python
+- Pandas, Matplotlib, Scikit-learn, Numpy, Seaborn
+- Jupyter Notebook
 
 ## Skills Demonstrated
