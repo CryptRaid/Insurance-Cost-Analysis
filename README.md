@@ -18,15 +18,15 @@
 ## Steps
 - Data cleaning
 - Following questions are answered:
- - Q1. What does the distribution of charges look like?
- - Q2. How many charges vary across regions? Is healthcare more expensive in one region vs others?
- - Q3. Do smokers pay more than non-smokers?
- - Q4. Is there a difference in charges between males and females?
- - Q5. How does BMI relate to medical charges?
- - Q6. Do age and number of children affect charges?
- - Q7. Which factor (age, BMI, children) has the strongest effect on charges?
- - Q8: Is there an association between number of children and smoking status?
- - Q9: Are smokers more likely to fall into the 'High charges' category compared to non-smokers?
+  - Q1. What does the distribution of charges look like?
+  - Q2. How many charges vary across regions? Is healthcare more expensive in one region vs others?
+  - Q3. Do smokers pay more than non-smokers?
+  - Q4. Is there a difference in charges between males and females?
+  - Q5. How does BMI relate to medical charges?
+  - Q6. Do age and number of children affect charges?
+  - Q7. Which factor (age, BMI, children) has the strongest effect on charges?
+  - Q8: Is there an association between number of children and smoking status?
+  - Q9: Are smokers more likely to fall into the 'High charges' category compared to non-smokers?
 
 ## Key Findings
 - 100% of smokers and 17% of non-smokers are in the top third of charges.
@@ -41,7 +41,7 @@
 1. Clone this repository:
 2. Open Medical_Insurance_Analysis.ipynb in Jupyter Notebook.
 3. Ensure the required python libraries are installed:
-  - Pandas, Matplotlib, Scikit-learn, Numpy, Seaborn
+    - Pandas, Matplotlib, Scikit-learn, Numpy, Seaborn
 
 ## Skills Demonstrated
 - Data cleaning and preprocessing
